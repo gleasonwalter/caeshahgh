@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nequadi.designersistockholm.com/sitemap.xml
